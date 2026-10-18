@@ -1,7 +1,7 @@
 # NeetCode — Problem Solving Journey
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=THINK.%20SOLVE.%20OPTIMIZE.&fontSize=34&fontColor=FFFFFF&color=0D1117&fontAlignY=50&desc=Data%20Structures%20%26%20Algorithms%20%7C%20%40aymendyyy&descAlignY=72&descSize=14" width="100%" alt="Think. Solve. Optimize.">
+  <img src="https://static.vecteezy.com/system/resources/previews/011/640/276/non_2x/rethink-or-think-again-to-make-change-for-better-result-thinking-new-way-to-solve-problem-or-make-decisions-innovation-idea-to-disruption-concept-smart-businessman-rethink-with-lightbulb-idea-vector.jpg" width=33%" alt="Think. Solve. Optimize.">
 </p>
 
 <p align="center">
@@ -70,12 +70,7 @@ The languages used in this repository depend on my submissions.
 | Language | Extension |
 |---|---|
 | JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Python | `.py` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| Go | `.go` |
-| Other supported languages | Varies |
+
 
 ## `06` — Automated Workflow
 

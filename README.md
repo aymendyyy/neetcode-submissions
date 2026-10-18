@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://neetcode.io">NeetCode</a> ·
-  <a href="https://github.com/aymendyyy">GitHub Profile</a>
+  <a href="https://github.com/aymendyyy">Profile</a>
 </p>
 
 <p align="center">
